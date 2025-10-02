@@ -1,5 +1,13 @@
 # Hi, I'm Sheherbanu Shaik 
 
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes)
+![Terraform](https://img.shields.io/badge/Terraform-blue?logo=terraform)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-blue?logo=github-actions)
+![Prometheus](https://img.shields.io/badge/Prometheus-orange?logo=prometheus)
+![Grafana](https://img.shields.io/badge/Grafana-red?logo=grafana)
+
 **Senior DevOps & Cloud Engineer | Multi-Cloud | CI/CD | Kubernetes | Terraform | Monitoring**
 
 ---
@@ -7,7 +15,7 @@
 ##  Skills & Expertise
 - **Cloud:** AWS, Azure, GCP  
 - **Containers & Orchestration:** Docker, Kubernetes, OpenShift  
-- **CI/CD:** GitHub Actions, Jenkins, Azure DevOps  
+- **CI/CD & Automation:** GitHub Actions, Jenkins, Azure DevOps, Bash scripting  
 - **Infrastructure as Code:** Terraform, Ansible  
 - **Monitoring & Logging:** Prometheus, Grafana, ELK, Datadog  
 - **Languages & Scripting:** Python, Bash, Node.js, Java  
@@ -15,29 +23,39 @@
 
 ---
 
-##  Projects
+##  Projects & CI/CD Status
 
-### 1. [Cloud Migration Toolkit][(https://github.com/<y>/cloud-migration)](https://github.com/Sheherbanu7/cloud-migration.git)
-- Multi-cloud migration reference project (AWS, Azure, GCP)  
-- Infrastructure as Code placeholders (Terraform, Ansible)  
-- Containerized microservice + Kubernetes deployment  
-- CI/CD workflow (GitHub Actions) + Monitoring/Logging placeholders  
+[![Cloud Migration Toolkit](https://img.shields.io/badge/Cloud_Migration_Toolkit-Repo-blue?logo=github)](https://github.com/Sheherbanu7/cloud-migration-toolkit)  
+![CI/CD](https://github.com/Sheherbanu7/cloud-migration-toolkit/actions/workflows/ci-cd-pipeline.yml/badge.svg)  
+- Multi-cloud migration, IaC, Docker, Kubernetes, CI/CD, monitoring  
 
-### 2. [Kubernetes CI/CD Pipeline][(https://github.com/<your-username>/k8s-ci-cd-pipeline)](https://github.com/Sheherbanu7/k8s-ci-cd-pipeline.git)
-- Production-ready Kubernetes deployment demonstration  
-- CI/CD automation using GitHub Actions  
-- Containerized microservice + Docker  
-- Monitoring & logging placeholders + test scripts  
+[![Kubernetes CI/CD Pipeline](https://img.shields.io/badge/K8s_CI_CD_Pipeline-Repo-blue?logo=github)](https://github.com/Sheherbanu7/k8s-ci-cd-pipeline)  
+![CI/CD](https://github.com/Sheherbanu7/k8s-ci-cd-pipeline/actions/workflows/ci-cd-pipeline.yml/badge.svg)  
+- Kubernetes deployment, CI/CD automation, monitoring & test placeholders  
+
+---
+
+##  Top Languages / Tools
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheherbanu7&layout=compact&theme=radical)
+![Most Used Tools](https://img.shields.io/badge/DevOps-Tools-blue?logo=git)
 
 ---
 
 ##  GitHub Stats
-[(https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=radical)](https://github.com/Sheherbanu7/sheherbanu-s.git)
+![Sheherbanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sheherbanu7&show_icons=true&theme=radical)
+
+---
+
+##  Experience Timeline (Summary)
+- **2016–2019:** Pharma R&D + IT integration (Biophore India)  
+- **2020–2022:** Graduate Assistant, Cloud & DevOps exposure (LIU)  
+- **2022–Present:** Senior DevOps & Cloud Engineer (Mag Tech + Soft Parch LLC)  
+- **Domain Expertise:** Pharma, Healthcare IT, Multi-Cloud DevOps  
 
 ---
 
 ##  Connect with me
-- LinkedIn: [[[linkedin.com/in/sheherbanu-shaik](https://linkedin.com/in/sheherbanu-shaik) ](https://www.linkedin.com/in/sheherbanu/) ](https://www.linkedin.com/in/sheherbanu/)
-- Email: shahrsk7@gmail.com 
+- LinkedIn: [linkedin.com/in/sheherbanu-shaik](https://www.linkedin.com/in/sheherbanu-shaik)  
+- Email: shahrsk7@gmail.com  
 
-*Portfolio showcasing senior-level DevOps and multi-cloud expertise.*
+*Portfolio showcasing multi-cloud, CI/CD, and monitoring expertise.*
