@@ -55,7 +55,7 @@
 ---
 
 ##  Connect with me
-- LinkedIn: [linkedin.com/in/sheherbanu-shaik][(https://www.linkedin.com/in/sheherbanu-s)  ](https://www.linkedin.com/in/sheherbanu/)
+- LinkedIn: (https://www.linkedin.com/in/sheherbanu/)
 - Email: shahrsk7@gmail.com  
 
 *Portfolio showcasing multi-cloud, CI/CD, and monitoring expertise.*
