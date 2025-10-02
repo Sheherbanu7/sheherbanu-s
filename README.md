@@ -26,11 +26,11 @@
 ##  Projects & CI/CD Status
 
 [![Cloud Migration Toolkit](https://img.shields.io/badge/Cloud_Migration_Toolkit-Repo-blue?logo=github)](https://github.com/Sheherbanu7/cloud-migration-toolkit)  
-![CI/CD](https://github.com/Sheherbanu7/cloud-migration-toolkit/actions/workflows/ci-cd-pipeline.yml/badge.svg)  
+![CI/CD][(https://github.com/Sheherbanu7/cloud-migration-toolkit/actions/workflows/ci-cd-pipeline.yml/badge.svg)  ](https://github.com/Sheherbanu7/cloud-migration.git)
 - Multi-cloud migration, IaC, Docker, Kubernetes, CI/CD, monitoring  
 
 [![Kubernetes CI/CD Pipeline](https://img.shields.io/badge/K8s_CI_CD_Pipeline-Repo-blue?logo=github)](https://github.com/Sheherbanu7/k8s-ci-cd-pipeline)  
-![CI/CD](https://github.com/Sheherbanu7/k8s-ci-cd-pipeline/actions/workflows/ci-cd-pipeline.yml/badge.svg)  
+![CI/CD][(https://github.com/Sheherbanu7/k8s-ci-cd-pipeline/actions/workflows/ci-cd-pipeline.yml/badge.svg) ](https://github.com/Sheherbanu7/k8s-ci-cd-pipeline.git) 
 - Kubernetes deployment, CI/CD automation, monitoring & test placeholders  
 
 ---
