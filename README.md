@@ -42,15 +42,7 @@
 ---
 
 ##  GitHub Stats
-![Sheherbanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sheherbanu7&show_icons=true&theme=radical)
-
----
-
-##  Experience Timeline (Summary)
-- **2016–2019:** Pharma R&D + IT integration (Biophore India)  
-- **2020–2022:** Graduate Assistant, Cloud & DevOps exposure (LIU)  
-- **2022–Present:** Senior DevOps & Cloud Engineer (Mag Tech + Soft Parch LLC)  
-- **Domain Expertise:** Pharma, Healthcare IT, Multi-Cloud DevOps  
+![Sheherbanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sheherbanu7&show_icons=true&theme=radical)  
 
 ---
 
